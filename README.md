@@ -1,9 +1,9 @@
 # Resume-Summarization
 <p>
-There are three python files in the project:
-main.py
-resumeasy.py
-skillsapi.py
+There are three python files in the project:<br>
+main.py<br>
+resumeasy.py<br>
+skillsapi.py<br>
 </p>
 The functions written in resumeasy.py and skillsapi.py are imported inside main.py.
 A simple form is created using HTML where the user could give the text of the resume as the input. And using the get method, the input from the user is obtained.
